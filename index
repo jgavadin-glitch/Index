@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test</title>
+    <link rel="stylesheet" href="StyleSheet.css">
+</head>
+<body>
+    <h1>Hello, my name is Jessica</h1>
+    <p>This is my website! Practice makes perfect</p>
+    <h2>Top two favorite foods</h2>
+    <h3></h3>
+    <p></p>
+    <ol>
+        <li>Grilled Cheese</li>
+        <li>Steak</li>
+    </ol>
+
+<nav>
+        <ul>
+            <li><a href="about.html">About Me</a></li>
+            <li><a href="https://github.com" target="_blank">GitHub</a></li>
+            <li><a href=></a></li>
+        </ul>
+    </nav>
+</body>
+</html>
